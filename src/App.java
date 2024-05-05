@@ -15,7 +15,6 @@ public class App {
 
 
         int cantidad = ListAnalyzer.contadorImpares(miLista);
-        System.out.println(miLista.size());
         System.out.println( "Cantidad de números impares: " + cantidad ); 
         // Salida: Cantidad de núemeros impares: 3
 
